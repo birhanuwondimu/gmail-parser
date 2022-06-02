@@ -1,0 +1,5 @@
+{
+  "GCF_REGION": "us-central1",
+  "GCLOUD_PROJECT": "solo-lending",
+  "TOPIC_ID": "gmail-solo-lending"
+}
